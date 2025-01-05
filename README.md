@@ -1,1 +1,1 @@
-# real-time-cdc-pipeline
+# Real time CDC pipeline
